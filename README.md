@@ -1,4 +1,4 @@
-![image](https://media-exp1.licdn.com/dms/image/C5603AQHl0HbNET_0rg/profile-displayphoto-shrink_400_400/0/1649347716422?e=1658966400&v=beta&t=WsAQch1jUgvaASSbRhtWkcs8tFt1OCgP7ayaxOhCFI4)
+
 
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Affan Ahmad</h1>
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
