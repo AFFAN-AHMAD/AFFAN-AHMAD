@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Affan Ahmad</h1>
-<h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
+<h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at Masai School.</h5>
 
 ![age](https://img.shields.io/badge/age-25-blue)
 ![living](https://img.shields.io/badge/living-Delhi-maroon)
