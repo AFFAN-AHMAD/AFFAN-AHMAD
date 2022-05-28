@@ -10,7 +10,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/affan-ahmad-31bba9184/)
 [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:affanahmad2797@gmail.com)
 
-<!-- [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)]("") -->
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@affanahmad2797)
 
 <!--  -->
 
