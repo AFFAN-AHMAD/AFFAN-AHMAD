@@ -1,22 +1,27 @@
-
+![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png)
 
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I am Affan Ahmad</h1>
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at Masai School.</h5>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AFFAN-AHMAD&label=Profile%20views&color=0e75b6&style=flat" alt="affanahmad" />
+  <a href="https://github.com/Affan-Ahmad?tab=followers"><img src="https://img.shields.io/github/followers/Affan-Ahmad?label=Followers&style=social" alt="GitHub Badge"></a><img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></p>
+
 
 ![age](https://img.shields.io/badge/age-25-blue)
 ![living](https://img.shields.io/badge/living-Delhi-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/affan-ahmad-31bba9184/)
-[![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:affanahmad2797@gmail.com)
 
-[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@affanahmad2797)
+<h5 align="left"><i>Portfolio --- </i>
+<a href="https://affanportfolio.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+</h5>
 
-<!--  -->
+<h3><i>Let's get connected</i></h3>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/AFFAN-AHMAD)
 
-### Skills
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/affan-ahmad-31bba9184/)        [![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:affanahmad2797@gmail.com)           [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@affanahmad2797)        [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/AFFAN-AHMAD)
+
+<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
 
 <p align="center">  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -62,9 +67,7 @@
   </tr>
 </table>
 
-### Badges
-
-<b>My GitHub Stats</b>
+<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 
 <a href="https://github.com/AFFAN-AHMAD"><img src="https://github-readme-stats.vercel.app/api?username=AFFAN-AHMAD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AFFAN-AHMAD's GitHub stats" /></a>
 
