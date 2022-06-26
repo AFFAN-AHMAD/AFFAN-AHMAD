@@ -8,7 +8,7 @@
 <a href="https://github.com/AFFAN-AHMAD?tab=followers"><img src="https://img.shields.io/github/followers/AFFAN-AHMAD?label=Followers&style=social" alt="GitHub Badge"></a><img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></p>
 
 
-![age](https://img.shields.io/badge/age-23-blue)
+![age](https://img.shields.io/badge/age-25-blue)
 ![living](https://img.shields.io/badge/living-delhi,India-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
@@ -22,14 +22,14 @@
 
 <h3><i> Can Connect with me on :</i></h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
-[![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:AFFAN-AHMAD@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram--informational?style=flat&logo=instagram&logoColor=fd13b3&color=orange)](https://www.instagram.com/_mad___boxer_/)
-[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@AFFAN-AHMAD)
-[![Facebook Badge](https://img.shields.io/badge/Facebook--informational?style=flat&logo=facebook&logoColor=0e8ef1&color=green)](https://www.facebook.com/people/Arshad-Khan/100004164048208/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/affan-ahmad-31bba9184/)
+[![Youtube Badge](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=fw0000&color=ff0000)](mailto:affanahmad2797@gmail.com)
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram--informational?style=flat&logo=instagram&logoColor=fd13b3&color=orange)](https://www.instagram.com/_mad___boxer_/) -->
+<!-- [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@AFFAN-AHMAD) -->
+<!-- [![Facebook Badge](https://img.shields.io/badge/Facebook--informational?style=flat&logo=facebook&logoColor=0e8ef1&color=green)](https://www.facebook.com/people/Arshad-Khan/100004164048208/) -->
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/AFFAN-AHMAD)
-[![Telegram Badge](https://img.shields.io/badge/Telegram--informational?style=flat&logo=Telegram&logoColor=white&color=slateblue)](https://t.me/mdarshadkhan)
-[![Youtube Badge](https://img.shields.io/badge/Youtube--informational?style=flat&logo=youtube&logoColor=ff0000&color=darkslateblue)](https://www.youtube.com/channel/UCGK-satop1PZ9njUOYCzHJw)
+<!-- [![Telegram Badge](https://img.shields.io/badge/Telegram--informational?style=flat&logo=Telegram&logoColor=white&color=slateblue)](https://t.me/mdarshadkhan) -->
+<!-- [![Youtube Badge](https://img.shields.io/badge/Youtube--informational?style=flat&logo=youtube&logoColor=ff0000&color=darkslateblue)](https://www.youtube.com/channel/UCGK-satop1PZ9njUOYCzHJw) -->
 
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
 
