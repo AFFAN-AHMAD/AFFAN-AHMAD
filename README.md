@@ -13,10 +13,17 @@
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
 
+- 🔭 I’m currently working on **a blog app**
 
-<h5 align="left"><i>Portfolio --- </i>
-<a href="https://affanportfolio.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
-</h5>
+- 🌱 I’m currently learning **MongoDb**
+
+- 👨‍💻 All of my projects are available at [https://affanportfolio.vercel.app/](https://affanportfolio.vercel.app/)
+
+- 💬 Ask me about **React, Express, Node**
+
+- 📫 How to reach me **affanahmad2797@gmail.com**
+
+- 📄 Know about me more [https://drive.google.com/file/d/12GmmWoJA7iwHJjinqdyomGOSS8R0TQo1/view?usp=sharing](https://drive.google.com/file/d/12GmmWoJA7iwHJjinqdyomGOSS8R0TQo1/view?usp=sharing)
 
 
 
