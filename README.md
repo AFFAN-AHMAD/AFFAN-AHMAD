@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React, Express, Node**
 
-- 📫 How to reach me **affanahmad2797@gmail.com**
+- 📫 Reach out to me **affanahmad2797@gmail.com**
 
 - 📄 Know about me more [https://drive.google.com/file/d/12GmmWoJA7iwHJjinqdyomGOSS8R0TQo1/view?usp=sharing](https://drive.google.com/file/d/12GmmWoJA7iwHJjinqdyomGOSS8R0TQo1/view?usp=sharing)
 
