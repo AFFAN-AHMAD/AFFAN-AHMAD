@@ -1,4 +1,4 @@
- ![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png) 
+<!-- ![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png) -->
 <img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQHEg32Pn5aXIQ/profile-displaybackgroundimage-shrink_350_1400/0/1661711845909?e=1667433600&v=beta&t=fu2GLywvWnXANzP4wvyUHK8ABwGFoW_5tgEy7eU09QA"></img>
 
 <h1 align="center">Hi !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I am AFFAN AHMAD</h1>
