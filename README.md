@@ -10,9 +10,11 @@
 <img src="https://img.shields.io/badge/focus-Software_Development-teal" alt="focus"></p>
 
 
+<a href="https://affanportfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-red" alt="focus"></p></a>
 
-
-- 👨‍💻 All of my projects are available at [https://affanportfolio.vercel.app/](https://affanportfolio.vercel.app/)
+<a href=""><img></a>
+<a href=""><img></a>
+- 👨‍💻 All of my projects are available at [](https://affanportfolio.vercel.app/)
 - 📫 Reach out to me at **affanahmad2797@gmail.com**
 - 📄 Know about me more [https://drive.google.com/file/d/12GmmWoJA7iwHJjinqdyomGOSS8R0TQo1/view?usp=sharing](https://drive.google.com/file/d/12GmmWoJA7iwHJjinqdyomGOSS8R0TQo1/view?usp=sharing)
 
