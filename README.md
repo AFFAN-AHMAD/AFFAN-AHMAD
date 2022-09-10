@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> <a href="https://affanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-red" alt="portfolio"></a> <img src="https://komarev.com/ghpvc/?username=AFFAN-AHMAD&label=Profile%20views&color=0e75b6&style=flat" alt="AFFAN-AHMAD" /> <a href="https://github.com/AFFAN-AHMAD?tab=followers"><img src="https://img.shields.io/github/followers/AFFAN-AHMAD?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Age-25-blueviolet" alt="Age Badge"> <img src="https://img.shields.io/badge/Living-Delhi,_India-brightgreen" alt="location">
-<img src="https://img.shields.io/badge/focus-Software_Development-teal" alt="focus"> <a href="https://drive.google.com/file/d/1pRAYIZB1mopzG4qBcNSrIBzPn9W_U4qb/view?usp=sharing"><img src="https://img.shields.io/badge/resume-maroon" alt="resume"></a></p>
+<img src="https://img.shields.io/badge/Focus-Software_Development-teal" alt="focus"> <a href="https://drive.google.com/file/d/1pRAYIZB1mopzG4qBcNSrIBzPn9W_U4qb/view?usp=sharing"><img src="https://img.shields.io/badge/resume-maroon" alt="resume"></a></p>
 
 
 
