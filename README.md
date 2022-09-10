@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am AFFAN AHMAD</h1>
  <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=A+Full+Stack+Web+Developer;3000%2B+Hours+of+Coding+Experience;A+Creative+Coder;A+Proactive+Learner;A+Team+Player"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&center=true&lines=A+Full+Stack+Web+Developer;3000%2B+Hours+of+Coding+Experience;A+Creative+Coder;A+Proactive+Learner;A+Team+Player"></a>
 </p>
 
 <p align="center"> <a href="https://affanportfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-red" alt="portfolio"></a> <img src="https://komarev.com/ghpvc/?username=AFFAN-AHMAD&label=Profile%20views&color=0e75b6&style=flat" alt="AFFAN-AHMAD" /> <a href="https://github.com/AFFAN-AHMAD?tab=followers"><img src="https://img.shields.io/github/followers/AFFAN-AHMAD?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/age-25-blueviolet" alt="Age Badge"> <img src="https://img.shields.io/badge/living-delhi,_India-brightgreen" alt="location">
