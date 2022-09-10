@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQHEg32Pn5aXIQ/profile-displaybackgroundimage-shrink_350_1400/0/1661711845909?e=1667433600&v=beta&t=fu2GLywvWnXANzP4wvyUHK8ABwGFoW_5tgEy7eU09QA"></img>
 
-<h1 align="center">Hi !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I am AFFAN AHMAD</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I am AFFAN AHMAD</h1>
  <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=A+Full+Stack+Web+Developer;3000%2B+Hours+of+Coding+Experience;A+Creative+Coder;A+Proactive+Learner;A+Team+Player"></a>
 </p>
