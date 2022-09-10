@@ -29,7 +29,7 @@
 
 <h3 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
 
- <p>
+ <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 
@@ -52,16 +52,16 @@
 
 
 <h3 align="center"><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+
 <p align="center">
-<a href="https://github.com/AFFAN-AHMAD"><img src="https://github-readme-stats.vercel.app/api?username=AFFAN-AHMAD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AFFAN-AHMAD's GitHub stats" /></a>
+<a href="https://github.com/AFFAN-AHMAD"><img src="https://github-readme-stats.vercel.app/api?username=AFFAN-AHMAD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AFFAN-AHMAD's GitHub stats" /></a> <a href="https://github.com/AFFAN-AHMAD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AFFAN-AHMAD&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-<p align="center">
-<a href="https://github.com/AFFAN-AHMAD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AFFAN-AHMAD&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
+</div>
 <a href="https://github.com/AFFAN-AHMAD"><img src="https://activity-graph.herokuapp.com/graph?username=AFFAN-AHMAD&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFFAN-AHMAD&show_icons=true&theme=dark&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=teal&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/AFFAN-AHMAD/github-readme-stats"></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFFAN-AHMAD&show_icons=true&theme=dark&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=teal&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/AFFAN-AHMAD/github-readme-stats)
+
 
 
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)
